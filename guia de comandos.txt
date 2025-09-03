@@ -10,4 +10,4 @@ git push origin main = pra subir o commit no git
 
 **agora estamos na branch nova
 
-git checkout -b dev
+git checkout -b dev  = o b é pra criar uma branch nova 
