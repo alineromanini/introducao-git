@@ -7,3 +7,7 @@ git add .  = adiciona todas alterações
 git commit -m "mensagem do commit"
 
 git push origin main = pra subir o commit no git
+
+**agora estamos na branch nova
+
+git checkout -b dev
